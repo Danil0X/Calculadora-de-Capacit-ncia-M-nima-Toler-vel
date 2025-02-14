@@ -1,5 +1,5 @@
 exibirTexto ('h1', 'digite o valor do capacitor:');
-exibirTexto ('p', 'para saber qual a sua tolerância em 20%');
+exibirTexto ('p', 'para saber qual a sua capacitância mínima tolerável em 20%');
 let listaDeCapacitores = [];
 
 function calcular(){
